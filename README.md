@@ -1,0 +1,2 @@
+simple-disable-xmlrpc
+=====================
